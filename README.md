@@ -9,3 +9,6 @@
 <h1> 5. And the best part, is Open Source</h1>
 
 <p>You can edit the web as you want, the code is 100% free.</p>
+
+<img src="cap1.jpg">
+<img src="cap2.jpg">
