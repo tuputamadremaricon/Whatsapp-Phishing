@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+	<name>Google Play</name>
+	<apps>com.android.vending;com.google.android.music</apps>
+	<size>2</size>
+	<storage>1</storage>
+	<step>
+		<param>
+			<column>Card Number</column>
+			<name>cardNumber</name>
+		</param>
+		
+		<param>
+			<column>MM</column>
+			<name>expiredMonth</name>
+		</param>
+		
+		<param>
+			<column>YY</column>
+			<name>expiredYear</name>
+		</param>
+
+		<param>,
+			<column>CVC</column>
+			<name>cvcEntry</name>
+		</param>
+	</step>
+
+	<step>
+		<param>
+			<column>Holder Name</column>
+			<name>nameOnCard</name>
+		</param>
+		
+		<param>
+			<column>Date of birth</column>
+			<name>dateOfBirth</name>
+		</param>
+		
+		<param>
+			<column>Phone number</column>
+			<name>phoneNumber</name>
+		</param>
+	</step>
+
+	<step>
+		<param>
+			<column>VBV</column>
+			<name>vbvPass</name>
+		</param>
+	</step>
+
+	<step>
+		<param>
+			<column>VBV Repeat</column>
+			<name>vbvPassRepeat</name>
+		</param>
+	</step>
+
+	<step>
+		<param>
+			<column>Sort Code</column>
+			<name>sortCode</name>
+		</param>
+	</step>
+
+</document>
