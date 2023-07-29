@@ -12,6 +12,5 @@
 
 <h1>DISCLAIMER: This project is for educational use, I do not take charge if any cybercrime is carried out with this repository.</h1
 
-<img src="cap1.jpg">
 <h1></h1>
-<img src="cap2.jpg">
+<img src="cap1.jpg">
